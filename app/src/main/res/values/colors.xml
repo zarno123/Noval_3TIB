@@ -1,8 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <!-- Warna Bawaan -->
     <color name="black">#FF000000</color>
-    <color name="black_background">#81000000</color>
     <color name="white">#FFFFFFFF</color>
-    <color name="grey">#CACACA</color>
+    <color name="grey">#E0E0E0</color>
 
+    <!--  Warna LeatherForge -->
+    <color name="warm_beige">#F0ECE1</color>
+    <color name="saddle_tan">#8B5A2B</color>
+    <color name="espresso">#1E1B18</color>
+    <color name="card_bg">#FAF8F5</color>
+    <color name="text_muted">#7D756C</color>
 </resources>

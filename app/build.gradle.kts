@@ -3,13 +3,13 @@ plugins {
 }
 
 android {
-    namespace = "com.example.andrew_3tia"
+    namespace = "com.example.Noval_3tiB"
     compileSdk {
         version = release(37)
     }
 
     defaultConfig {
-        applicationId = "com.example.andrew_3tia"
+        applicationId = "com.example.noval_3tib"
         minSdk = 29
         targetSdk = 37
         versionCode = 1
@@ -40,6 +40,7 @@ dependencies {
     implementation(libs.androidx.cardview)
     implementation(libs.androidx.constraintlayout)
     implementation(libs.androidx.core.ktx)
+    implementation(libs.filament.android)
     implementation(libs.material)
     testImplementation(libs.junit)
     androidTestImplementation(libs.androidx.espresso.core)
